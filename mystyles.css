@@ -1,0 +1,31 @@
+.contact {
+    text-align: center;
+}
+.aboutmephotos {
+    padding-left: 190px;
+    padding-right: 190px;
+}
+.anchors a:hover {
+    color: #0085A1;
+}
+.register a {
+    color: white;
+}
+.video {
+    padding-top: 50px;
+    padding-right: 450px;
+    padding-left: 450px;
+}
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17pt;
+}
+.span {
+    font-family: fantasy !important; 
+}
+a:hover {
+    text-decoration: underline;
+ }
+ .name {
+     font-size: 20pt;
+ }
